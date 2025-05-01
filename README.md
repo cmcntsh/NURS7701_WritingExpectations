@@ -1,5 +1,11 @@
 # NURS7701 Writing Expectations & Reader Expectation Approach to Writing - Introductory Readings and Exercises
 
+Here are some key points to remember while you're writing and before submitting assignments:
+
+* Download and install the Grammarly add-in.
+* Address the issues in your writing that Grammarly identifies. (Assignments that have multiple spelling or grammar errors or that have problems with clarity and conciseness will be sent back to you for correction before grading.)
+* Assess how well you have addressed the content for each section with AI before submitting your assignments. If you have missed certain content, address it before submitting your assignment.
+
 I've created a short list of readings to reinforce some principles of effective scholarly writing. I attended a writing workshop held by George Gopen at the University of Utah in 2023. While these articles are addressed to a legal audience, the same principles apply to scholarly writing in the sciences. I wish I had been exposed to this material in graduate school.
 
 ## Week 1
