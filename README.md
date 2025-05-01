@@ -37,18 +37,47 @@ How well does the following text answer each of these questions? Is there a clea
 ## Week 4
 
 * Read: #7 Who Done It? Controlling Agency in Legal Writing, Part II https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_7_controlling_agency_pt2.pdf
+* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026648
+
+Use this prompt to evaluate your text in the Updated Purpose and Refined Objectives sections.
+
+```
+How well does the following text discuss each of these elements? What is the purpose of the project? What are the objectives of the project? Do the objectives support the overall purpose? Are the objectives stated in a logical order? Are the project's purpose and objectives clearly stated? Are the objective specific, measurable, relevant, and attainable? "[Paste the text you want evaluated here.]"
+```
   
 ## Week 5
 
 * Read: #8 How to Overburden Your Reader; Separate Your Subject from Your Verb https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_8_s_v_c_separation.pdf
+* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026634
+  * Note: You DO need to cite the Johns Hopkins text or any other source you use to find information about the JHEBP model or any part of it. (The instruction to not cite in this assignment has caused confusion for students in the past and some have failed to cite the required material in their final paper. Any material used as a source in the final paper needs to be cited, including sources about the JHEBP model.)
+ 
+Use this prompt to evaluate your text.
+
+```
+How well does the following text discuss each of these elements? What is the framework, model, or theory used to guide the activities of your project? Is the framework, model, or theory summarized for the reader? Is there a describe how the framework, model, or theory aligns with and guides the work on the project? Is any relevant literature cited? Is there any evidence this type of intervention may work? "[Paste the text you want evaluated here.]"
+```
 
 ## Week 6
 
 * Read: #10 Why the Passive Voice Should Be Used and Appreciated - Not Avoided https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_10_why_the_passive_should_be_used.pdf
+* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026644
+
+Use this prompt to evaluate your text in the Updated Purpose and Refined Objectives sections.
+
+```
+How well does the following text discuss each of these elements? What is the purpose of the project? What are the objectives of the project? Do the objectives support the overall purpose? Are the objectives stated in a logical order? Are the project's purpose and objectives clearly stated? Are the objective specific, measurable, relevant, and attainable? "[Paste the text you want evaluated here.]"
+```
 
 ## Week 7
 
 * Read: #12 The #2 Problem in Legal Writing: Solved https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_12_the_2_problem_in_legal_writing_solved.pdf
+* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026642
+
+Use this prompt to evaluate your Objectives-Methods-Products table. (You can copy and paste your entire table into ChatGPT.)
+
+```
+Please evaluate this table that describes the objectives, methods, and desired products or outcomes. Are the objectives clearly and succinctly stated? Are the objectives listed in a logical order? Are the methods described using verbs? Are the products or outcomes described using nouns? Is there good alignment between each objective and its associated method and product or outcome? Are the methods listed for each objective likely to result in the desired product or outcome? Please suggest any improvements to the table where appropriate. Here is the table: [paste table here]
+```
 
 ## Week 8
 
