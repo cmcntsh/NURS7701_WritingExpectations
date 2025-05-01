@@ -1,4 +1,4 @@
-# NURS7701 Writing Expectations & Reader Expectation Approach to Writing - Introductory Readings and Exercises
+# NURS7701 Writing Expectations & Short Readings About Scholarly Writing
 
 Here are some key points to remember while you're writing and before submitting assignments:
 
