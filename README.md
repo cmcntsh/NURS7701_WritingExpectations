@@ -19,6 +19,7 @@ Use this prompt to evaluate your text in the  What is the problem? and Why does 
 How well does the following text answer each of these questions? Why are you doing this project? What is the problem you’re addressing? Who is affected? When is it a problem? Why does it matter? How does it affect the patient or system? Has a cause been identified? What will happen if this problem is not addressed? "[Paste the text you want evaluated here.]"
 ```
 
+<br><br>
 ## Week 2
 
 * Read: #3 Ensuring readers Know What Actions Are Happening in Any Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_3_actions_and_verbs.pdf
@@ -30,10 +31,14 @@ Use this prompt to evaluate your text in the Step 2: Problem Statement section.
 How well does the following text answer each of these questions? Is there a clear statement that the problem exists? What evidence is cited to support the existence of the problem? What evidence is cited that identifies an existing trend that contributes to the problem? What evidence is cited that identifies the probable causes related to the problem?
 ```
 
+
+<br><br>
 ## Week 3
 
 * Read: #4 Whose Story Is This Sentence? Directing Readers' Perception of Narrative https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_4_whose_story.pdf
 
+
+<br><br>
 ## Week 4
 
 * Read: #7 Who Done It? Controlling Agency in Legal Writing, Part II https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_7_controlling_agency_pt2.pdf
@@ -45,6 +50,8 @@ Use this prompt to evaluate your text in the Updated Purpose and Refined Objecti
 How well does the following text discuss each of these elements? What is the purpose of the project? What are the objectives of the project? Do the objectives support the overall purpose? Are the objectives stated in a logical order? Are the project's purpose and objectives clearly stated? Are the objective specific, measurable, relevant, and attainable? "[Paste the text you want evaluated here.]"
 ```
   
+
+<br><br>
 ## Week 5
 
 * Read: #8 How to Overburden Your Reader; Separate Your Subject from Your Verb https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_8_s_v_c_separation.pdf
@@ -57,6 +64,8 @@ Use this prompt to evaluate your text.
 How well does the following text discuss each of these elements? What is the framework, model, or theory used to guide the activities of your project? Is the framework, model, or theory summarized for the reader? Is there a describe how the framework, model, or theory aligns with and guides the work on the project? Is any relevant literature cited? Is there any evidence this type of intervention may work? "[Paste the text you want evaluated here.]"
 ```
 
+
+<br><br>
 ## Week 6
 
 * Read: #10 Why the Passive Voice Should Be Used and Appreciated - Not Avoided https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_10_why_the_passive_should_be_used.pdf
@@ -68,6 +77,8 @@ Use this prompt to evaluate your text in the Updated Purpose and Refined Objecti
 How well does the following text discuss each of these elements? What is the purpose of the project? What are the objectives of the project? Do the objectives support the overall purpose? Are the objectives stated in a logical order? Are the project's purpose and objectives clearly stated? Are the objective specific, measurable, relevant, and attainable? "[Paste the text you want evaluated here.]"
 ```
 
+
+<br><br>
 ## Week 7
 
 * Read: #12 The #2 Problem in Legal Writing: Solved https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_12_the_2_problem_in_legal_writing_solved.pdf
@@ -87,6 +98,8 @@ Use this prompt to evaluate your References list.
 Do these references follow proper APA 7 formatting guidelines? Please suggest specific improvements where needed. Here are the references: "[paste references here in quotes]"
 ```
 
+
+<br><br>
 ## Week 8
 
 * Read: #18 The Progress of Thought: To Move Forward, Link Backward https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_18_the_progress_of_thought.pdf
@@ -101,6 +114,8 @@ Do these references follow proper APA 7 formatting guidelines? Please suggest sp
 * Assignment: https://utah.instructure.com/courses/1157957/assignments/16026645
   * Note: Before creating a Gantt chart, please watch the following video and create a deliverables diagram and submit it to me first. I'd like to make sure the deliverables look good before you spend time creating a Gantt chart. https://www.youtube.com/watch?v=Wngwm4L8CLI
 
+
+<br><br>
 ## Week 9
 
 * Read: #19 What's at Issue? The Construction of the English Paragraph, Part I https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_19_construction-english-paragraph.pdf
@@ -114,6 +129,8 @@ Use this prompt to evaluate your Objectives-Methods-Products table. (You can cop
 Please evaluate this table that describes the objectives, methods, and desired products or outcomes. Are the objectives clearly and succinctly stated? Are the objectives listed in a logical order? Are the methods described using verbs? Are the products or outcomes described using nouns? Is there good alignment between each objective and its associated method and product or outcome? Are the methods listed for each objective likely to result in the desired product or outcome? Please suggest any improvements to the table where appropriate. Here is the table: [paste table here]
 ```
 
+
+<br><br>
 ## Week 10
 
 * Read: #22 The Point of a Paragraph and Where to Find It: The Construction of the English Paragraph, Part IV https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_22_point-of-paragraph.pdf
@@ -126,16 +143,22 @@ Use this prompt to evaluate your text. (Include the text from the synthesized fi
 What evidence is cited in the following text to answer each of these questions? What is currently known about the problem in general, including relevant previous studies? Who is affected by the problem? What are the impacts of the problem? How does the problem affect those individuals? When is it a problem? Why is it a problem or why does the problem matter? What are the costs or the other negative impacts of the problem? How prevalent is the problem or how many people are affected? Are there any existing trends that contribute to the problem? Are probable causes of the problem identified? Are there any formal standards related to this problem? How are the main concepts relevant to the problem defined? Is any supporting literature or evidence cited? "[Paste the text you want evaluated here.]"
 ```
 
+
+<br><br>
 ## Week 11
 
 * Read: #24 How Paragraphs Speak to Each Other https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_24_--_how_paragraphs_speak_to_each_other.pdf
 
+
+<br><br>
 ## Week 12
 
 * Read: #25 A Quiver of Punctuation: How to Handle Two Clauses in One Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_25_punctuation_quiver___handling_2_clauses_in_1_sentence.pdf
 * Read: #29 A Once Rogue Punctuation Mark Gains Respectability: What You Can Now Accomplish with an M-Dash https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_29___a_once_rogue_punctuation_mark_gains_respectability.pdf
 * (Optional) A summary of Gopen's review of the use of different punctuation marks he wrote in one of his books is available at https://github.com/cmcntsh/ReaderExpectationApproachWriting#use-of-punctuation
 
+
+<br><br>
 ## Get ready for writing next semester
 
 * Skim through my writing page: https://github.com/cmcntsh/PoWeRWritingGradStudents
