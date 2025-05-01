@@ -79,20 +79,52 @@ Use this prompt to evaluate your Objectives-Methods-Products table. (You can cop
 Please evaluate this table that describes the objectives, methods, and desired products or outcomes. Are the objectives clearly and succinctly stated? Are the objectives listed in a logical order? Are the methods described using verbs? Are the products or outcomes described using nouns? Is there good alignment between each objective and its associated method and product or outcome? Are the methods listed for each objective likely to result in the desired product or outcome? Please suggest any improvements to the table where appropriate. Here is the table: [paste table here]
 ```
 
+* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026637
+
+Use this prompt to evaluate your References list.
+
+```
+Do these references follow proper APA 7 formatting guidelines? Please suggest specific improvements where needed. Here are the references: "[paste references here in quotes]"
+```
+
 ## Week 8
 
 * Read: #18 The Progress of Thought: To Move Forward, Link Backward https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_18_the_progress_of_thought.pdf
+* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026638
+
+Use this prompt to evaluate your References list.
+
+```
+Do these references follow proper APA 7 formatting guidelines? Please suggest specific improvements where needed. Here are the references: "[paste references here in quotes]"
+```
+
+* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026645
+  * Note: Before creating a Gantt chart, please watch the following video and create a deliverables diagram and submit it to me first. I'd like to make sure the deliverables look good before you spend time creating a Gantt chart. https://www.youtube.com/watch?v=Wngwm4L8CLI
 
 ## Week 9
 
 * Read: #19 What's at Issue? The Construction of the English Paragraph, Part I https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_19_construction-english-paragraph.pdf
 * Read: #20 What's at Issue? The Construction of the English Paragraph, Part II https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_20_whats_at_issue_part_2.pdf
 * Read: #21 Connectivity: The Construction of the English Paragraph, Part III https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_21_connectivity.pdf
+* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026643
+
+Use this prompt to evaluate your Objectives-Methods-Products table. (You can copy and paste your entire table into ChatGPT.)
+
+```
+Please evaluate this table that describes the objectives, methods, and desired products or outcomes. Are the objectives clearly and succinctly stated? Are the objectives listed in a logical order? Are the methods described using verbs? Are the products or outcomes described using nouns? Is there good alignment between each objective and its associated method and product or outcome? Are the methods listed for each objective likely to result in the desired product or outcome? Please suggest any improvements to the table where appropriate. Here is the table: [paste table here]
+```
 
 ## Week 10
 
 * Read: #22 The Point of a Paragraph and Where to Find It: The Construction of the English Paragraph, Part IV https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_22_point-of-paragraph.pdf
 * Read: #23 Five Varieties of Point Placement: The Construction of the English Paragraph, Part V https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_23_five-varieties-point-placement.pdf
+* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026655
+
+Use this prompt to evaluate your text. (Include the text from the synthesized findings boxes, evidence consistency cell, evidence inconsistency cell, and best evidence recommendation cell.)
+
+```
+What evidence is cited in the following text to answer each of these questions? What is currently known about the problem in general, including relevant previous studies? Who is affected by the problem? What are the impacts of the problem? How does the problem affect those individuals? When is it a problem? Why is it a problem or why does the problem matter? What are the costs or the other negative impacts of the problem? How prevalent is the problem or how many people are affected? Are there any existing trends that contribute to the problem? Are probable causes of the problem identified? Are there any formal standards related to this problem? How are the main concepts relevant to the problem defined? Is any supporting literature or evidence cited? "[Paste the text you want evaluated here.]"
+```
 
 ## Week 11
 
@@ -103,3 +135,9 @@ Please evaluate this table that describes the objectives, methods, and desired p
 * Read: #25 A Quiver of Punctuation: How to Handle Two Clauses in One Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_25_punctuation_quiver___handling_2_clauses_in_1_sentence.pdf
 * Read: #29 A Once Rogue Punctuation Mark Gains Respectability: What You Can Now Accomplish with an M-Dash https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_29___a_once_rogue_punctuation_mark_gains_respectability.pdf
 * (Optional) A summary of Gopen's review of the use of different punctuation marks he wrote in one of his books is available at https://github.com/cmcntsh/ReaderExpectationApproachWriting#use-of-punctuation
+
+## Get ready for writing next semester
+
+* Skim through my writing page: https://github.com/cmcntsh/PoWeRWritingGradStudents
+* You don't need to go to all of the links. You can go to the links in any areas of writing you personally find problematic.
+* Pay particular attention to how I highlight papers when I'm evaluating the writing. I'll be doing that type of highlighting on your papers next semester. https://github.com/cmcntsh/PoWeRWritingGradStudents#here-are-the-things-im-looking-for
