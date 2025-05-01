@@ -11,10 +11,24 @@ I've created a short list of readings to reinforce some principles of effective 
 ## Week 1
 
 * Read: #2 The Importance of Stress: Indicating the Most Important Words in a Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_2_stress_position.pdf
+* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026656
+
+Use this prompt to evaluate your text in the  What is the problem? and Why does it matter? sections.
+
+```
+How well does the following text answer each of these questions? Why are you doing this project? What is the problem you’re addressing? Who is affected? When is it a problem? Why does it matter? How does it affect the patient or system? Has a cause been identified? What will happen if this problem is not addressed? "[Paste the text you want evaluated here.]"
+```
 
 ## Week 2
 
 * Read: #3 Ensuring readers Know What Actions Are Happening in Any Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_3_actions_and_verbs.pdf
+* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026633
+
+Use this prompt to evaluate your text in the Step 2: Problem Statement section.
+
+```
+How well does the following text answer each of these questions? Is there a clear statement that the problem exists? What evidence is cited to support the existence of the problem? What evidence is cited that identifies an existing trend that contributes to the problem? What evidence is cited that identifies the probable causes related to the problem?
+```
 
 ## Week 3
 
