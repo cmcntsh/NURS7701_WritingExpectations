@@ -6,7 +6,7 @@ Here are some key points to remember while you're writing and before submitting 
 * Address the issues in your writing that Grammarly identifies. (Assignments that have multiple spelling or grammar errors or that have problems with clarity and conciseness will be sent back to you for correction before grading.)
 * Assess how well you have addressed the content for each section with AI before submitting your assignments. If you have missed certain content, address it before submitting your assignment.
 
-I've created a short list of readings to reinforce some principles of effective scholarly writing. I attended a writing workshop held by George Gopen at the University of Utah in 2023. While these articles are addressed to a legal audience, the same principles apply to scholarly writing in the sciences. I wish I had been exposed to this material in graduate school.
+I've created a short list of readings to reinforce some principles of effective scholarly writing. They're all short, just a couple of pages. They're split out week by week. By the end of the semester, you'll have read them all. They talk about the kinds of things I look for in scholarly writing. My hope is to get us all on the same page when it comes to writing your papers next semester. I attended a writing workshop held by George Gopen at the University of Utah in 2023. While these articles are addressed to a legal audience, the same principles apply to scholarly writing in the sciences.
 
 ## Week 1
 
