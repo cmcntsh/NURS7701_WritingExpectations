@@ -29,7 +29,7 @@ I've created a short list of readings to reinforce some principles of effective 
 ## Week 4 (June 2)
 
 * Read: #7 Who Done It? Controlling Agency in Legal Writing, Part II https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_7_controlling_agency_pt2.pdf
-* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026648
+* Assignment: [Project Objectives Assignment](https://utah.instructure.com/courses/1157957/assignments/16026648)
 
 Use this prompt to evaluate your text in the Updated Purpose and Refined Objectives sections.
 
@@ -43,7 +43,7 @@ How well does the following text discuss each of these elements? What is the pro
 ## Week 5 (June 9)
 
 * Read: #8 How to Overburden Your Reader; Separate Your Subject from Your Verb https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_8_s_v_c_separation.pdf
-* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026634
+* Assignment: [Apply JHEBP Model Assignment](https://utah.instructure.com/courses/1157957/assignments/16026634)
  
 Use this prompt to evaluate your text.
 
@@ -56,7 +56,7 @@ How well does the following text discuss each of these elements? What is the fra
 ## Week 6 (June 16)
 
 * Read: #10 Why the Passive Voice Should Be Used and Appreciated - Not Avoided https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_10_why_the_passive_should_be_used.pdf
-* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026644
+* Assignment: [Project Objectives Assignment](https://utah.instructure.com/courses/1157957/assignments/16026644)
 
 Use this prompt to evaluate your text in the Updated Purpose and Refined Objectives sections.
 
@@ -69,7 +69,7 @@ How well does the following text discuss each of these elements? What is the pro
 ## Week 7 (June 23)
 
 * Read: #12 The #2 Problem in Legal Writing: Solved https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_12_the_2_problem_in_legal_writing_solved.pdf
-* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026642
+* Assignment: [Objective Methods Outcomes Table Assignment](https://utah.instructure.com/courses/1157957/assignments/16026642)
 
 Use this prompt to evaluate your Objectives-Methods-Products table. (You can copy and paste your entire table into ChatGPT.)
 
@@ -77,7 +77,7 @@ Use this prompt to evaluate your Objectives-Methods-Products table. (You can cop
 Please evaluate this table that describes the objectives, methods, and desired products or outcomes. Are the objectives clearly and succinctly stated? Are the objectives listed in a logical order? Are the methods described using verbs? Are the products or outcomes described using nouns? Is there good alignment between each objective and its associated method and product or outcome? Are the methods listed for each objective likely to result in the desired product or outcome? Please suggest any improvements to the table where appropriate. Here is the table: [paste table here]
 ```
 
-* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026637
+* Assignment: [Evidence Summary Table Assignment](https://utah.instructure.com/courses/1157957/assignments/16026637)
 
 Use this prompt to evaluate your References list.
 
@@ -108,7 +108,7 @@ Do these references follow proper APA 7 formatting guidelines? Please suggest sp
 * Read: #19 What's at Issue? The Construction of the English Paragraph, Part I https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_19_construction-english-paragraph.pdf
 * Read: #20 What's at Issue? The Construction of the English Paragraph, Part II https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_20_whats_at_issue_part_2.pdf
 * Read: #21 Connectivity: The Construction of the English Paragraph, Part III https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_21_connectivity.pdf
-* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026643
+* Assignment: [Objectives Methods Products Outcomes Table Assignment](https://utah.instructure.com/courses/1157957/assignments/16026643)
 
 Use this prompt to evaluate your Objectives-Methods-Products table. (You can copy and paste your entire table into ChatGPT.)
 
