@@ -8,7 +8,7 @@ Here are some key points to remember while you're writing and before submitting 
 
 I've created a short list of readings to reinforce some principles of effective scholarly writing. They're all short, just a couple of pages. They're split out week by week. By the end of the semester, you'll have read them all. They talk about the kinds of things I look for in scholarly writing. My hope is to get us all on the same page when it comes to writing your papers next semester. I attended a writing workshop held by George Gopen at the University of Utah in 2023. While these articles are addressed to a legal audience, the same principles apply to scholarly writing in the sciences.
 
-## Week 1
+## Week 1 May 12
 
 * Read: #2 The Importance of Stress: Indicating the Most Important Words in a Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_2_stress_position.pdf
 * Assignment: https://utah.instructure.com/courses/1157957/assignments/16026656
@@ -20,7 +20,7 @@ How well does the following text answer each of these questions? Why are you doi
 ```
 
 <br><br>
-## Week 2
+## Week 2 May 19
 
 * Read: #3 Ensuring readers Know What Actions Are Happening in Any Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_3_actions_and_verbs.pdf
 * Assignment: https://utah.instructure.com/courses/1157957/assignments/16026633
@@ -33,13 +33,13 @@ How well does the following text answer each of these questions? Is there a clea
 
 
 <br><br>
-## Week 3
+## Week 3 May 26
 
 * Read: #4 Whose Story Is This Sentence? Directing Readers' Perception of Narrative https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_4_whose_story.pdf
 
 
 <br><br>
-## Week 4
+## Week 4 June 2
 
 * Read: #7 Who Done It? Controlling Agency in Legal Writing, Part II https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_7_controlling_agency_pt2.pdf
 * Assignment: https://utah.instructure.com/courses/1157957/assignments/16026648
@@ -52,7 +52,7 @@ How well does the following text discuss each of these elements? What is the pur
   
 
 <br><br>
-## Week 5
+## Week 5 June 9
 
 * Read: #8 How to Overburden Your Reader; Separate Your Subject from Your Verb https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_8_s_v_c_separation.pdf
 * Assignment: https://utah.instructure.com/courses/1157957/assignments/16026634
@@ -66,7 +66,7 @@ How well does the following text discuss each of these elements? What is the fra
 
 
 <br><br>
-## Week 6
+## Week 6 June 16
 
 * Read: #10 Why the Passive Voice Should Be Used and Appreciated - Not Avoided https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_10_why_the_passive_should_be_used.pdf
 * Assignment: https://utah.instructure.com/courses/1157957/assignments/16026644
@@ -79,7 +79,7 @@ How well does the following text discuss each of these elements? What is the pur
 
 
 <br><br>
-## Week 7
+## Week 7 June 23
 
 * Read: #12 The #2 Problem in Legal Writing: Solved https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_12_the_2_problem_in_legal_writing_solved.pdf
 * Assignment: https://utah.instructure.com/courses/1157957/assignments/16026642
@@ -100,7 +100,7 @@ Do these references follow proper APA 7 formatting guidelines? Please suggest sp
 
 
 <br><br>
-## Week 8
+## Week 8 June 30
 
 * Read: #18 The Progress of Thought: To Move Forward, Link Backward https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_18_the_progress_of_thought.pdf
 * Assignment: https://utah.instructure.com/courses/1157957/assignments/16026638
@@ -116,7 +116,7 @@ Do these references follow proper APA 7 formatting guidelines? Please suggest sp
 
 
 <br><br>
-## Week 9
+## Week 9 July 7
 
 * Read: #19 What's at Issue? The Construction of the English Paragraph, Part I https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_19_construction-english-paragraph.pdf
 * Read: #20 What's at Issue? The Construction of the English Paragraph, Part II https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_20_whats_at_issue_part_2.pdf
@@ -131,7 +131,7 @@ Please evaluate this table that describes the objectives, methods, and desired p
 
 
 <br><br>
-## Week 10
+## Week 10 July 14
 
 * Read: #22 The Point of a Paragraph and Where to Find It: The Construction of the English Paragraph, Part IV https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_22_point-of-paragraph.pdf
 * Read: #23 Five Varieties of Point Placement: The Construction of the English Paragraph, Part V https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_23_five-varieties-point-placement.pdf
@@ -145,13 +145,13 @@ What evidence is cited in the following text to answer each of these questions? 
 
 
 <br><br>
-## Week 11
+## Week 11 July 21
 
 * Read: #24 How Paragraphs Speak to Each Other https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_24_--_how_paragraphs_speak_to_each_other.pdf
 
 
 <br><br>
-## Week 12
+## Week 12 July 28
 
 * Read: #25 A Quiver of Punctuation: How to Handle Two Clauses in One Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_25_punctuation_quiver___handling_2_clauses_in_1_sentence.pdf
 * Read: #29 A Once Rogue Punctuation Mark Gains Respectability: What You Can Now Accomplish with an M-Dash https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_29___a_once_rogue_punctuation_mark_gains_respectability.pdf
