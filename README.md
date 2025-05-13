@@ -122,7 +122,7 @@ Please evaluate this table that describes the objectives, methods, and desired p
 
 * Read: #22 The Point of a Paragraph and Where to Find It: The Construction of the English Paragraph, Part IV https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_22_point-of-paragraph.pdf
 * Read: #23 Five Varieties of Point Placement: The Construction of the English Paragraph, Part V https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_23_five-varieties-point-placement.pdf
-* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026655
+* Assignment: [Evidence Synthesis Assignment](https://utah.instructure.com/courses/1157957/assignments/16026655)
 
 Use this prompt to evaluate your text. (Include the text from the synthesized findings boxes, evidence consistency cell, evidence inconsistency cell, and best evidence recommendation cell.)
 
