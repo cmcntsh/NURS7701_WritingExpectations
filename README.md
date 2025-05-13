@@ -11,31 +11,18 @@ I've created a short list of readings to reinforce some principles of effective 
 ## Week 1 May 12
 
 * Read: #2 The Importance of Stress: Indicating the Most Important Words in a Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_2_stress_position.pdf
-* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026656
-
-Use this prompt to evaluate your text in the  What is the problem? and Why does it matter? sections.
-
-```
-How well does the following text answer each of these questions? Why are you doing this project? What is the problem you’re addressing? Who is affected? When is it a problem? Why does it matter? How does it affect the patient or system? Has a cause been identified? What will happen if this problem is not addressed? "[Paste the text you want evaluated here.]"
-```
 
 <br><br>
 ## Week 2 May 19
 
 * Read: #3 Ensuring readers Know What Actions Are Happening in Any Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_3_actions_and_verbs.pdf
-* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026633
-
-Use this prompt to evaluate your text in the Step 2: Problem Statement section.
-
-```
-How well does the following text answer each of these questions? Is there a clear statement that the problem exists? What evidence is cited to support the existence of the problem? What evidence is cited that identifies an existing trend that contributes to the problem? What evidence is cited that identifies the probable causes related to the problem?
-```
 
 
 <br><br>
 ## Week 3 May 26
 
 * Read: #4 Whose Story Is This Sentence? Directing Readers' Perception of Narrative https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_4_whose_story.pdf
+
 
 
 <br><br>
@@ -47,21 +34,21 @@ How well does the following text answer each of these questions? Is there a clea
 Use this prompt to evaluate your text in the Updated Purpose and Refined Objectives sections.
 
 ```
-How well does the following text discuss each of these elements? What is the purpose of the project? What are the objectives of the project? Do the objectives support the overall purpose? Are the objectives stated in a logical order? Are the project's purpose and objectives clearly stated? Are the objective specific, measurable, relevant, and attainable? "[Paste the text you want evaluated here.]"
+How well does the following text discuss each of these elements? What is the problem that needs to be solved? What is the purpose of the project? What are the objectives of the project? Do the objectives address the problem described? Do the objectives support the overall purpose? Are the objectives stated in a logical order? Are the project's purpose and objectives clearly stated? Are the objectives specific, measurable, relevant, and attainable? "<Paste the problem statement here.> <Paste the purpose statement here.> <Paste the objectives here.>"
 ```
-  
+
+
 
 <br><br>
 ## Week 5 June 9
 
 * Read: #8 How to Overburden Your Reader; Separate Your Subject from Your Verb https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_8_s_v_c_separation.pdf
 * Assignment: https://utah.instructure.com/courses/1157957/assignments/16026634
-  * Note: You DO need to cite the Johns Hopkins text or any other source you use to find information about the JHEBP model or any part of it. (The instruction to not cite in this assignment has caused confusion for students in the past and some have failed to cite the required material in their final paper. Any material used as a source in the final paper needs to be cited, including sources about the JHEBP model.)
  
 Use this prompt to evaluate your text.
 
 ```
-How well does the following text discuss each of these elements? What is the framework, model, or theory used to guide the activities of your project? Is the framework, model, or theory summarized for the reader? Is there a describe how the framework, model, or theory aligns with and guides the work on the project? Is any relevant literature cited? Is there any evidence this type of intervention may work? "[Paste the text you want evaluated here.]"
+How well does the following text discuss each of these elements? What is the framework, model, or theory used to guide the activities of your project? Is the framework, model, or theory summarized for the reader? How does the framework, model, or theory align with and guide the work on the project? Is any relevant literature cited? Is there any evidence this type of intervention may work? "[Paste the text you want evaluated here.]"
 ```
 
 
@@ -76,6 +63,23 @@ Use this prompt to evaluate your text in the Updated Purpose and Refined Objecti
 ```
 How well does the following text discuss each of these elements? What is the purpose of the project? What are the objectives of the project? Do the objectives support the overall purpose? Are the objectives stated in a logical order? Are the project's purpose and objectives clearly stated? Are the objective specific, measurable, relevant, and attainable? "[Paste the text you want evaluated here.]"
 ```
+
+* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026633
+
+Use this prompt to evaluate your text in the Step 2: Problem Statement section.
+
+```
+How well does the following text answer each of these questions? Is there a clear statement that the problem exists? What evidence is cited to support the existence of the problem? What evidence is cited that identifies an existing trend that contributes to the problem? What evidence is cited that identifies the probable causes related to the problem?
+```
+
+* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026656
+
+Use this prompt to evaluate your text in the  What is the problem? and Why does it matter? sections.
+
+```
+How well does the following text answer each of these questions? Why are you doing this project? What is the problem you’re addressing? Who is affected? When is it a problem? Why does it matter? How does it affect the patient or system? Has a cause been identified? What will happen if this problem is not addressed? "[Paste the text you want evaluated here.]"
+```
+
 
 
 <br><br>
