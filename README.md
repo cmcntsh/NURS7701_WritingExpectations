@@ -8,25 +8,25 @@ Here are some key points to remember while you're writing and before submitting 
 
 I've created a short list of readings to reinforce some principles of effective scholarly writing. They're all short, just a couple of pages. They're split out week by week. By the end of the semester, you'll have read them all. They talk about the kinds of things I look for in scholarly writing. My hope is to get us all on the same page when it comes to writing your papers next semester. I attended a writing workshop held by George Gopen at the University of Utah in 2023. While these articles are addressed to a legal audience, the same principles apply to scholarly writing in the sciences.
 
-## Week 1 May 12
+## Week 1 (May 12)
 
 * Read: #2 The Importance of Stress: Indicating the Most Important Words in a Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_2_stress_position.pdf
 
 <br><br>
-## Week 2 May 19
+## Week 2 (May 19)
 
 * Read: #3 Ensuring readers Know What Actions Are Happening in Any Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_3_actions_and_verbs.pdf
 
 
 <br><br>
-## Week 3 May 26
+## Week 3 (May 26)
 
 * Read: #4 Whose Story Is This Sentence? Directing Readers' Perception of Narrative https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_4_whose_story.pdf
 
 
 
 <br><br>
-## Week 4 June 2
+## Week 4 (June 2)
 
 * Read: #7 Who Done It? Controlling Agency in Legal Writing, Part II https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_7_controlling_agency_pt2.pdf
 * Assignment: https://utah.instructure.com/courses/1157957/assignments/16026648
@@ -40,7 +40,7 @@ How well does the following text discuss each of these elements? What is the pro
 
 
 <br><br>
-## Week 5 June 9
+## Week 5 (June 9)
 
 * Read: #8 How to Overburden Your Reader; Separate Your Subject from Your Verb https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_8_s_v_c_separation.pdf
 * Assignment: https://utah.instructure.com/courses/1157957/assignments/16026634
@@ -53,7 +53,7 @@ How well does the following text discuss each of these elements? What is the fra
 
 
 <br><br>
-## Week 6 June 16
+## Week 6 (June 16)
 
 * Read: #10 Why the Passive Voice Should Be Used and Appreciated - Not Avoided https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_10_why_the_passive_should_be_used.pdf
 * Assignment: https://utah.instructure.com/courses/1157957/assignments/16026644
@@ -61,29 +61,12 @@ How well does the following text discuss each of these elements? What is the fra
 Use this prompt to evaluate your text in the Updated Purpose and Refined Objectives sections.
 
 ```
-How well does the following text discuss each of these elements? What is the purpose of the project? What are the objectives of the project? Do the objectives support the overall purpose? Are the objectives stated in a logical order? Are the project's purpose and objectives clearly stated? Are the objective specific, measurable, relevant, and attainable? "[Paste the text you want evaluated here.]"
+How well does the following text discuss each of these elements? What is the problem that needs to be solved? What is the purpose of the project? What are the objectives of the project? Do the objectives address the problem described? Do the objectives support the overall purpose? Are the objectives stated in a logical order? Are the project's purpose and objectives clearly stated? Are the objectives specific, measurable, relevant, and attainable? "<Paste the problem statement here.> <Paste the purpose statement here.> <Paste the objectives here.>
 ```
-
-* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026633
-
-Use this prompt to evaluate your text in the Step 2: Problem Statement section.
-
-```
-How well does the following text answer each of these questions? Is there a clear statement that the problem exists? What evidence is cited to support the existence of the problem? What evidence is cited that identifies an existing trend that contributes to the problem? What evidence is cited that identifies the probable causes related to the problem?
-```
-
-* Assignment: https://utah.instructure.com/courses/1157957/assignments/16026656
-
-Use this prompt to evaluate your text in the  What is the problem? and Why does it matter? sections.
-
-```
-How well does the following text answer each of these questions? Why are you doing this project? What is the problem you’re addressing? Who is affected? When is it a problem? Why does it matter? How does it affect the patient or system? Has a cause been identified? What will happen if this problem is not addressed? "[Paste the text you want evaluated here.]"
-```
-
 
 
 <br><br>
-## Week 7 June 23
+## Week 7 (June 23)
 
 * Read: #12 The #2 Problem in Legal Writing: Solved https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_12_the_2_problem_in_legal_writing_solved.pdf
 * Assignment: https://utah.instructure.com/courses/1157957/assignments/16026642
@@ -104,7 +87,7 @@ Do these references follow proper APA 7 formatting guidelines? Please suggest sp
 
 
 <br><br>
-## Week 8 June 30
+## Week 8 (June 30)
 
 * Read: #18 The Progress of Thought: To Move Forward, Link Backward https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_18_the_progress_of_thought.pdf
 * Assignment: https://utah.instructure.com/courses/1157957/assignments/16026638
@@ -120,7 +103,7 @@ Do these references follow proper APA 7 formatting guidelines? Please suggest sp
 
 
 <br><br>
-## Week 9 July 7
+## Week 9 (July 7)
 
 * Read: #19 What's at Issue? The Construction of the English Paragraph, Part I https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_19_construction-english-paragraph.pdf
 * Read: #20 What's at Issue? The Construction of the English Paragraph, Part II https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_20_whats_at_issue_part_2.pdf
@@ -135,7 +118,7 @@ Please evaluate this table that describes the objectives, methods, and desired p
 
 
 <br><br>
-## Week 10 July 14
+## Week 10 (July 14)
 
 * Read: #22 The Point of a Paragraph and Where to Find It: The Construction of the English Paragraph, Part IV https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_22_point-of-paragraph.pdf
 * Read: #23 Five Varieties of Point Placement: The Construction of the English Paragraph, Part V https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_23_five-varieties-point-placement.pdf
@@ -149,13 +132,13 @@ What evidence is cited in the following text to answer each of these questions? 
 
 
 <br><br>
-## Week 11 July 21
+## Week 11 (July 21)
 
 * Read: #24 How Paragraphs Speak to Each Other https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_24_--_how_paragraphs_speak_to_each_other.pdf
 
 
 <br><br>
-## Week 12 July 28
+## Week 12 (July 28)
 
 * Read: #25 A Quiver of Punctuation: How to Handle Two Clauses in One Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_25_punctuation_quiver___handling_2_clauses_in_1_sentence.pdf
 * Read: #29 A Once Rogue Punctuation Mark Gains Respectability: What You Can Now Accomplish with an M-Dash https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_29___a_once_rogue_punctuation_mark_gains_respectability.pdf
@@ -168,3 +151,5 @@ What evidence is cited in the following text to answer each of these questions? 
 * Skim through my writing page: https://github.com/cmcntsh/PoWeRWritingGradStudents
 * You don't need to go to all of the links. You can go to the links in any areas of writing you personally find problematic.
 * Pay particular attention to how I highlight papers when I'm evaluating the writing. I'll be doing that type of highlighting on your papers next semester. https://github.com/cmcntsh/PoWeRWritingGradStudents#here-are-the-things-im-looking-for
+
+
