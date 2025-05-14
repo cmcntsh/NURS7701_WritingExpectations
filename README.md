@@ -1,10 +1,27 @@
 # NURS7701 Writing Expectations & Short Readings About Scholarly Writing
 
-Here are some key points to remember while you're writing and before submitting assignments:
+### Role of the Scholarly Project Chair:
+
+* Facilitate your learning through all phases of the project: planning, development, implementation, and evaluation.
+* Provide guidance and feedback on your work, including your scholarly manuscript.
+* Help ensure you meet all project requirements, including QI/IRB compliance.
+* Maintain consistent and effective communication with you.
+
+### Tips for Success in Your Scholarly Project:
+
+Based on the DNP Scholarly Project Handbook and general best practices, here are a few tips to help you succeed:
+
+* **Proactive Communication:** Maintain open and timely communication with me regarding your progress, any challenges you encounter, or if you anticipate missing a deadline. It is your responsibility to contact me in advance if situations arise that impact assignments or due dates.
+* **Utilize Course Resources:** Take full advantage of the resources provided in the Canvas course, including announcements, podcasts/videos, examples, and guidelines like the SQUIRE Guidelines Table and manuscript template.
+* **Plan Ahead:** The DNP project has distinct phases and requires careful planning. Begin thinking about your project ideas, potential clinical questions, and establishing relationships with organizations and potential sponsors early on.
+* **Embrace Scholarly Writing:** Scholarly writing is a key component of this project and your professional development. Be prepared for an iterative writing process and utilize resources like Grammarly Premium and the Graduate Writing Center.
+* **Attend Meetings Prepared:** Come to our bi-weekly meetings prepared to discuss your progress, ask questions, and engage in a productive discussion.
+
+### Here are some key points to remember while you're writing and before submitting assignments:
 
 * Download and install the Grammarly add-in.
 * Address the issues in your writing that Grammarly identifies. (Assignments that have multiple spelling or grammar errors or that have problems with clarity and conciseness will be sent back to you for correction before grading.)
-* Assess how well you have addressed the content for each section with AI before submitting your assignments. If you have missed certain content, address it before submitting your assignment.
+* Assess how well you have addressed the content for each section with AI before submitting your assignments. If you have missed certain content, address it before submitting your assignment. (If you haven't been using ChatGPT or another chat tool, we can go over how to use this when we meet.)
 
 I've created a short list of readings to reinforce some principles of effective scholarly writing. They're all short, just a couple of pages. They're split out week by week. By the end of the semester, you'll have read them all. They talk about the kinds of things I look for in scholarly writing. My hope is to get us all on the same page when it comes to writing your papers next semester. I attended a writing workshop held by George Gopen at the University of Utah in 2023. While these articles are addressed to a legal audience, the same principles apply to scholarly writing in the sciences.
 
