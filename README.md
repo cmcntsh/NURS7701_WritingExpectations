@@ -48,8 +48,10 @@ Do these references follow proper APA 7 formatting guidelines? Please suggest sp
 ```
 
 <br>
+
 * Assignment: [Evidence Summary Table Assignment](https://utah.instructure.com/courses/1157957/assignments/16026636)
 
+<br>
 These prompts may help you double-check how you rate the level of evidence for your articles.
 
 Rate a study on the Johns Hopkins Level of Evidence.
