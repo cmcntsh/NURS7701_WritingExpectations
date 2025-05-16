@@ -47,6 +47,7 @@ Use this prompt to evaluate your reference list in that assignment.
 Do these references follow proper APA 7 formatting guidelines? Please suggest specific improvements where needed. Here are the references: "[paste references here in quotes]"
 ```
 
+<br>
 * Assignment: [Evidence Summary Table Assignment](https://utah.instructure.com/courses/1157957/assignments/16026636)
 
 These prompts may help you double-check how you rate the level of evidence for your articles.
