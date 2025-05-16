@@ -39,6 +39,29 @@ I've created a short list of readings to reinforce some principles of effective 
 ## Week 3 (May 26)
 
 * Read: #4 Whose Story Is This Sentence? Directing Readers' Perception of Narrative https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_4_whose_story.pdf
+* Assignment: [Question, Problem Statement, Purpose Assignment](https://utah.instructure.com/courses/1157957/assignments/16026656)
+
+Use this prompt to evaluate your reference list in that assignment.
+
+```
+Do these references follow proper APA 7 formatting guidelines? Please suggest specific improvements where needed. Here are the references: "[paste references here in quotes]"
+```
+
+* Assignment: [Evidence Summary Table Assignment](https://utah.instructure.com/courses/1157957/assignments/16026636)
+
+These prompts may help you double-check how you rate the level of evidence for your articles.
+
+Rate a study on the Johns Hopkins Level of Evidence.
+
+```
+What is the level of evidence for this study based on the Johns Hopkins level of evidence ranking system (Level I: Experimental study, randomized controlled trial (RCT), or meta-analysis of RCTs. Level II: Quasi-experimental study. Level III: Non-experimental study, qualitative study, or meta-synthesis. Level IV: Opinion of nationally recognized experts based on research evidence or expert consensus. Level V: Opinion of individual expert based on non-research evidence.)?
+```
+
+Rate a study on the Johns Hopkins quality rating using letters.
+
+```
+What is the quality rating for this study based on the Johns Hopkins quality rating system (A High quality: Consistent, generalizable results; sufficient sample size for the study design; adequate control; definitive conclusions; consistent recommendations based on comprehensive literature review that includes thorough reference to scientific evidence. B Good quality: Reasonably consistent results; sufficient sample size for the study design; some control, fairly definitive conclusions; reasonably consistent recommendations based on fairly comprehensive literature review that includes some reference to scientific evidence. C Low quality or major flaws: Little evidence with inconsistent results; insufficient sample size for the study design; conclusions cannot be drawn.)?
+```
 
 
 
