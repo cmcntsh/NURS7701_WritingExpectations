@@ -33,6 +33,13 @@ I've created a short list of readings to reinforce some principles of effective 
 ## Week 2 (May 19)
 
 * Read: #3 Ensuring readers Know What Actions Are Happening in Any Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_3_actions_and_verbs.pdf
+* Assignment: [Question, Problem Statement, Purpose Assignment](https://utah.instructure.com/courses/1157957/assignments/16026633)
+
+Use this prompt to evaluate your reference list in that assignment.
+
+```
+Do these references follow proper APA 7 formatting guidelines? Please suggest specific improvements where needed. Here are the references: "[paste references here in quotes]"
+```
 
 
 <br><br>
