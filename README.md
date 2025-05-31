@@ -46,6 +46,7 @@ Do these references follow proper APA 7 formatting guidelines? Please suggest sp
 ## Week 3 (May 26)
 
 * Read: #4 Whose Story Is This Sentence? Directing Readers' Perception of Narrative https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_4_whose_story.pdf
+* Using Zotero for References & Using AI Prompts to Rate Articles on JHEBP Strength and Quality (18 min) https://www.youtube.com/watch?v=xYcs1bPoDR8
 * Assignment: [Question, Problem Statement, Purpose Assignment](https://utah.instructure.com/courses/1157957/assignments/16026656)
 
 Use this prompt to evaluate your reference list in that assignment.
