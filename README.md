@@ -68,13 +68,17 @@ Rate a study on the Johns Hopkins Level of Evidence.
 What is the level of evidence for this study based on the Johns Hopkins level of evidence ranking system (Level I: Experimental study, randomized controlled trial (RCT), or meta-analysis of RCTs. Level II: Quasi-experimental study. Level III: Non-experimental study, qualitative study, or meta-synthesis. Level IV: Opinion of nationally recognized experts based on research evidence or expert consensus. Level V: Opinion of individual expert based on non-research evidence.)?
 ```
 
-Rate a study on the Johns Hopkins quality rating using letters.
+(obsolete as of 2025) Rate a study on the Johns Hopkins quality rating using letters.
 
 ```
 What is the quality rating for this study based on the Johns Hopkins quality rating system (A High quality: Consistent, generalizable results; sufficient sample size for the study design; adequate control; definitive conclusions; consistent recommendations based on comprehensive literature review that includes thorough reference to scientific evidence. B Good quality: Reasonably consistent results; sufficient sample size for the study design; some control, fairly definitive conclusions; reasonably consistent recommendations based on fairly comprehensive literature review that includes some reference to scientific evidence. C Low quality or major flaws: Little evidence with inconsistent results; insufficient sample size for the study design; conclusions cannot be drawn.)?
 ```
 
+Rate a study on the Johns Hopkins level of support rating system.
 
+```
+What is the level of support for decision-making rating for this study based on the Johns Hopkins level of support rating system used in the 5th edition of the Johns Hopkins Evidence-Based Practice for Nurses and Healthcare Professionals: Model & Guidelines (Strong: Single studies with a formal study design that is controlled trials with or without randomization; Moderate: Interventional studies without control or randomization and observational designs; Limited: Anecdotal evidence that doesn't fall into one of the previous categories.)?
+```
 
 <br><br>
 ## Week 4 (June 2)
